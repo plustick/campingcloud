@@ -2,6 +2,7 @@
 
 ## DOWNLOAD images(1.2GByte):
 - 展開すると16G SD カードのサイズになります。
+- raspberrypi zero w で動作確認していますが、ベースはraspbian なので raspberrypi 1,2,3 でも動くはずです。
 - https://s3-ap-northeast-1.amazonaws.com/camping-cloud/campingcloud.20180118.img.zip
 
 ## INITIALISE 
